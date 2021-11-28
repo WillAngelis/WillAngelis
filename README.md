@@ -24,7 +24,7 @@
 <div align="center"> <h2 > Um pouco sobre mim </h2>
 <div style="display: inline_block"  >
 <p> - 🎓 Estudante de Tecnologia da Informação, atualmente estou cursando o 1° semestre na ETEC. </p>
-<p> - 📑 Estudante da area FrontEnd na Escola Alura e Discover da Rocketseat além de cursos da Udemy. </p>
+<p> - 📑 Estudante da area FrontEnd na Escola <b>Alura</b> e Discover da <b>Rocketseat</b> além de cursos da <b>Udemy</b>. </p>
 <p> - 🎯 Interesses: Javascript, ReactJS, ReactNative, Vue.Js, HTML5, CSS3, Bootstrap, Sass, UI e UX Design. </p>
 <p> - 🎮 Desde cedo me sentindo um programador só por alterar códigos de jogos e só agora vendo que o caminho é longo hahaha </p>
 <p> - 📚 Tentando manter o hábito da leitura em dia com livros de ficção cientifica e fantasia </p> 
@@ -72,11 +72,9 @@
     <a href="https://github.com/WillAngelis">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/WillAngelis">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:willangelis@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:willangelis@gmail.com">
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/willangelis/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/willangelis/">
     </a>
