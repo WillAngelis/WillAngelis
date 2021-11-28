@@ -5,13 +5,13 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://www.linkedin.com/in/willangelis/">
     <img  
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=WillAngelis&title_color=ff1269&icon_color=f5f5f5&bg_color=22272E&hide_border=false&border_color=ff1269&locale=pt-br&text_color=ff1269&include_all_commits=true&hide_rank&count_private=true&show_icons=true"/>
+      src="https://github-readme-stats.vercel.app/api?username=WillAngelis&title_color=ff1269&icon_color=f5f5f5&bg_color=22272E&hide_border=false&border_color=ff1269&locale=pt-br&text_color=ff1269&count_private=true&show_icons=true"/>
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/WillAngelis">
     <img
       align="center"
          height="165"
