@@ -3,7 +3,6 @@
 <br>
 <h2 align="center"> Bem vindo ao meu perfil GitHub :v:</h2>
 </br>
-</br>
 <p align="center">
   <a href="https://www.linkedin.com/in/willangelis/">
     <img  
