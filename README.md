@@ -24,9 +24,8 @@
 <div align="center"> <h2 > Um pouco sobre mim </h2>
 <div style="display: inline_block"  >
 <p> - 🎓 Estudante de Tecnologia da Informação, atualmente estou cursando o 1° semestre na ETEC. </p>
-<p> - 📑 Estudante da area FrontEnd na Escola <b>Alura</b> e Discover da <b>Rocketseat</b> além de cursos da <b>Udemy</b>. </p>
-<p> - 🎯 Interesses: Javascript, ReactJS, ReactNative, Vue.Js, HTML5, CSS3, Bootstrap, Sass, UI e UX Design. </p>
-<p> - 🎮 Desde cedo me sentindo um programador só por alterar códigos de jogos e só agora vendo que o caminho é longo hahaha </p>
+<p> - 📑 Estudante da area FrontEnd na Escola <b>Alura</b> e Ignite da <b>Rocketseat</b> além de cursos da <b>Udemy</b>. </p>
+<p> - 🎯 Interesses: Javascript, ReactJS, NextJS, Redux, Vue.Js, HTML5, CSS3, Bootstrap, Sass, TalwindCss, UI e UX Design. </p>
 <p> - 📚 Tentando manter o hábito da leitura em dia com livros de ficção cientifica e fantasia </p> 
 </div>
 </div>
@@ -41,8 +40,6 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;  
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;  
-    <img height="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     &nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     &nbsp;&nbsp;
@@ -51,20 +48,14 @@
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
     &nbsp;&nbsp;
     <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    &nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    &nbsp;&nbsp;
+    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
     
 </div>
 <br>
 <br>
-<div display="block" align="center">
-    <h3 align="center"> Estou Aprendendo </h3>
-    <br>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-
- </div>
 <h2 align="center" Meus contatos ✒️:</h2>
 <br>
 <br>
