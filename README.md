@@ -1,6 +1,7 @@
-<h1 align="center"> Eai prazer meu nome é William! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2></h1>
-<br>
-<br>
+<h1 align="center"> Eai prazer meu nome é William! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"</h1>
+  <br></br>
+  <div><img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" /> 
+  </div>
 <h2 align="center"> Bem vindo ao meu perfil GitHub :v:</h2>
 </br>
 <p align="center">
