@@ -1,6 +1,6 @@
-<h1 align="center"> Eai prazer meu nome é William! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"</h1>
+<h1 align="center"> Eai prazer meu nome é William! </h1>
   <br></br>
-  <div><img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" /> 
+  <div align="center"><img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" /> 
   </div>
 <h2 align="center"> Bem vindo ao meu perfil GitHub :v:</h2>
 </br>
@@ -24,10 +24,10 @@
 
 <div align="center"> <h2 > Um pouco sobre mim </h2>
 <div style="display: inline_block"  >
-<p> - 🎓 Estudante de Tecnologia da Informação, atualmente estou cursando o 1° semestre na ETEC. </p>
+<p> - 🎓 Estudante de Tecnologia da Informação, atualmente estou cursando Desenvolvimento de Sistemas na ETEC e Desenvolvimento Web na Unopar. </p>
 <p> - 📑 Estudante da area FrontEnd na Escola <b>Alura</b> e Ignite da <b>Rocketseat</b> além de cursos da <b>Udemy</b>. </p>
 <p> - 🎯 Interesses: Javascript, ReactJS, NextJS, Redux, Vue.Js, HTML5, CSS3, Bootstrap, Sass, TalwindCss, UI e UX Design. </p>
-<p> - 📚 Tentando manter o hábito da leitura em dia com livros de ficção cientifica e fantasia </p> 
+
 </div>
 </div>
 
