@@ -19,7 +19,7 @@ No tempo livre jogo uns Games e leio umas ficções
   <img width="500px" src="https://raw.githubusercontent.com/gist/WillAngelis/84cf43e3e5fb6a14f576a263500e9ebf/raw/3f5c597e104e1437858e4d9bc3fcdfbe4c97c880/stacks.svg"/>
 <br>
 <br>
-  <img  width="300px" src="https://raw.githubusercontent.com/gist/WillAngelis/ccf564464a07e94510aa0eae56e19063/raw/474281f70650c7997894aac041b0bb16b189fe0c/bground.svg"/>
+  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-942.gif"/>
 </div>
 
 <div align="center">
