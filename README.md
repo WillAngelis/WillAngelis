@@ -1,6 +1,6 @@
 <h1 align="center"> Eai prazer meu nome é William! </h1>
   <br></br>
-  <div align="center"><img src="https://c.tenor.com/3bTxZ4HdrysAAAAC/pixels-neon.gif" /> 
+  <div align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1854919151249910621/9E2AC7908E035396903EA4A3FE56019DFD3FC135/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" /> 
   </div>
 <h2 align="center"> Bem vindo ao meu perfil GitHub :v:</h2>
 </br>
