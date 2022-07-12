@@ -1,76 +1,51 @@
-<h1 align="center"> Eai prazer meu nome é William! </h1>
-  <br></br>
-  <div align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1854919151249910621/9E2AC7908E035396903EA4A3FE56019DFD3FC135/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" /> 
-  </div>
-<h2 align="center"> Bem vindo ao meu perfil GitHub :v:</h2>
-</br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/willangelis/">
-    <img  
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=WillAngelis&title_color=ff1269&icon_color=f5f5f5&bg_color=22272E&hide_border=false&border_color=ff1269&locale=pt-br&text_color=ff1269&count_private=true&show_icons=true"/>
-  </a>
-  <a href="https://github.com/WillAngelis">
-    <img
-      align="center"
-         height="165"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillAngelis&layout=default&title_color=ff1269&icon_color=f5f5f5&bg_color=22272E&hide_border=false&border_color=ff1269&locale=pt-br&text_color=ff1269"
-    />
-  </a>
-</p>
-
-
-
-<div align="center"> <h2 > Um pouco sobre mim </h2>
-<div style="display: inline_block"  >
-<p> - 🎓 Estudante de Tecnologia da Informação, atualmente estou cursando Desenvolvimento de Sistemas na ETEC e Desenvolvimento Web na Unopar. </p>
-<p> - 📑 Estudante da area FrontEnd na Escola <b>Alura</b> e Ignite da <b>Rocketseat</b> além de cursos da <b>Udemy</b>. </p>
-<p> - 🎯 Interesses: Javascript, ReactJS, NextJS, Redux, Vue.Js, HTML5, CSS3, Bootstrap, Sass, TalwindCss, UI e UX Design. </p>
-
-</div>
-</div>
-
-<h3 align="center"> Minhas skills </h3>
-<div display="block" align="center">
-    <br>
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;  
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;  
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    &nbsp;&nbsp;  
-    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    &nbsp;&nbsp;
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    
-</div>
-<br>
-<br>
-<h2 align="center" Meus contatos ✒️:</h2>
+<img align="center" height="200px" src="https://raw.githubusercontent.com/gist/WillAngelis/a4952ea4184f3204f313a70d29637dc0/raw/1a23d01f67fc6a927a886770f4ce287c407b1f1d/welcome.svg"/>
 <br>
 <br>
 
 <div align="center">
-    <a href="https://github.com/WillAngelis">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/WillAngelis">
-    </a>
+
+Me chamo <strong>William Angelis</strong> e sou de Jaú interior de São Paulo
+
+Curso <strong>Desenvolvimento de Sistemas</strong> na Etec da minha cidade
+
+Apaixonado por Programação, em especial por <strong> Front End 💙</strong>
+
+No tempo livre jogo uns Games e leio umas ficções
+
+<strong>Software Developer</strong> na [STI3](https://www.sti3.com.br/) 🖱️​
+
+*Amante da educação e de compartilhar conhecimento*
+</div>
+<br>
+
+<div align="center">
+  <img width="500px" src="https://raw.githubusercontent.com/gist/WillAngelis/84cf43e3e5fb6a14f576a263500e9ebf/raw/3f5c597e104e1437858e4d9bc3fcdfbe4c97c880/stacks.svg"/>
+<br>
+<br>
+  <img  width="300px" src="https://raw.githubusercontent.com/gist/WillAngelis/ccf564464a07e94510aa0eae56e19063/raw/474281f70650c7997894aac041b0bb16b189fe0c/bground.svg"/>
+</div>
+
+<div align="center">
     <a href="mailto:willangelis@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:willangelis@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:willangelis@gmail.com"/>
     </a>
     <a href="https://www.linkedin.com/in/willangelis/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/willangelis/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/willangelis/"/>
     </a>
 </div>
 
-<p align="center"> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillAngelis&layout=compact&langs_count=7&theme=react&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WillAngelis&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+</div>
+
+<h2 align="center">🔥 Alguns dos meus favoritos</h2>
+
+<div align="center">
+ <a href="https://github.com/WillAngelis/Pokedex">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillAngelis&repo=Pokedex&theme=react&hide_border=true" />
+</a>
+<a href="https://github.com/WillAngelis/Banco-Make-Money">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=WillAngelis&repo=Banco-Make-Money&theme=react&hide_border=true" />
+</a>
+</div>
