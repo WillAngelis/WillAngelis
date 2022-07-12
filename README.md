@@ -1,7 +1,4 @@
 <img align="center" height="200px" src="https://raw.githubusercontent.com/gist/WillAngelis/a4952ea4184f3204f313a70d29637dc0/raw/1a23d01f67fc6a927a886770f4ce287c407b1f1d/welcome.svg"/>
-<br>
-<br>
-
 <div align="center">
 
 Me chamo <strong>William Angelis</strong> e sou de Jaú interior de São Paulo
