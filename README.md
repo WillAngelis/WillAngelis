@@ -5,7 +5,7 @@ Me chamo <strong>William Angelis</strong> e sou de Jaú interior de São Paulo
 
 Curso <strong>Desenvolvimento de Sistemas</strong> na Etec da minha cidade
 
-Apaixonado por Programação, em especial por <strong> Front End 💙</strong>
+Apaixonado por Programação, em especial por <strong> Front End 💜</strong>
 
 No tempo livre jogo uns Games e leio umas ficções
 
