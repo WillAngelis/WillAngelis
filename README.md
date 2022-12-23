@@ -16,10 +16,6 @@ No tempo livre jogo uns Games e leio umas ficções
 <br>
 
 <div align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/03/icegif-942.gif"/>
-</div>
-
-<div align="center">
     <a href="mailto:willangelis@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:willangelis@gmail.com"/>
     </a>
